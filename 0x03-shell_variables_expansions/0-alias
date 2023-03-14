@@ -1,2 +1,2 @@
 #!/bin/bash
-alias list-all-files = "ls -la"
+alias ls="ls -la"
